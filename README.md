@@ -1,0 +1,9 @@
+# ExampleSignalStateMachine
+## License: MIT License
+
+Simulate a progression of signal aspects and a grade crossing
+
+Examples for
+  * using functions to abstract behaviors
+  * using a state machine to sequence behaviors
+
